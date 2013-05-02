@@ -1,0 +1,3 @@
+newfile.txt stored under 
+TestJavaProject
+dir1
